@@ -1,0 +1,17 @@
+.filter {
+  margin-top: 20px;
+  /* padding: 20px; */
+}
+
+.filterLabel {
+  margin-top: 10px;
+  margin-bottom: 20px;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.filterInput {
+  padding: 5px 10px;
+  /* width: 270px; */
+}
